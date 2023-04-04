@@ -12,6 +12,7 @@ or just have questions, head over to [Piazza](https://piazza.com/ucsb/spring2023
 - **Lectures**  14:00 to 15:15 on Mondays and Wednesdays in 1006 North Hall
 - **Labs**  09:00 to 13:00 (one hour each) on Fridays in 3525 Phelps Hall
 - **Kevin's Office Hours**  15:15 to 16:15 on Mondays in CSIL
+- **Surya's Office Hours**  14:00 to 16:00 on Tuesdays in CSIL
 
 
 ## Assignments
