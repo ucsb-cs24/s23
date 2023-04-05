@@ -31,3 +31,4 @@ _14:00 to 15:15 Mondays and Wednesdays in 1006 North Hall_
 | Date           | Topics
 |----------------|--------
 | April      3rd | Admin stuff; the syllabus; Git
+| April      5th | More Git; C++ compilation; memory layout
