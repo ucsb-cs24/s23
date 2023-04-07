@@ -107,6 +107,7 @@ Then write some code.
 ## Code Hints
 
 - The [cctype][cctype] header contains helpful functions for working with characters.
+  But note that these return zero for false and _non-zero_ (not `true`) for true!
 - All non-letter characters are considered lower case; capitalizing them has no effect.
 - Your code should always print exactly one newline, regardless of the input.
 - If you're not familiar with Make, [this tutorial][makefiles] might help.
