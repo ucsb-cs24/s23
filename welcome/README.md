@@ -109,6 +109,7 @@ Then write some code.
 - The [cctype][cctype] header contains helpful functions for working with characters.
 - All non-letter characters are considered lower case; capitalizing them has no effect.
 - Your code should always print exactly one newline, regardless of the input.
+- If you're not familiar with Make, [this tutorial][makefiles] might help.
 - Beware of integer overflow!
 - Your code must compile with no warnings (see the syllabus).
 - Don't check executables or object files into Git.
@@ -120,3 +121,4 @@ Then write some code.
 [ssh-create]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 [ssh-github]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 [cctype]: https://cplusplus.com/reference/cctype/
+[makefiles]: https://makefiletutorial.com/
