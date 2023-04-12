@@ -1,0 +1,4 @@
+origin	https://github.com/ucsb-cs24/s23.git (fetch)
+origin	https://github.com/ucsb-cs24/s23.git (push)
+upstream	https://github.com/ucsb-cs24/s23.git (fetch)
+upstream	https://github.com/ucsb-cs24/s23.git (push)
