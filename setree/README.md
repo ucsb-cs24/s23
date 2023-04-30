@@ -78,7 +78,8 @@ Implement the following `Set` member functions in `Set.cpp`.
 - `lookup(n)` returns the value `value` such that there are exactly `n` values
   smaller than `value` in the set.  If no such element exists, it throws a
   `std::out_of_range` exception.
-- `print()` prints the structure of the set in tree notation, as defined above.
+- `print()`  prints the structure of the set in tree notation, as defined above,
+  followed by a single newline.
 - `remove(value)` removes a value from the set  and returns the number of values
   that were removed.
   - If the value to remove is on a node with less than two children,  it removes
