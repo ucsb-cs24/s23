@@ -42,4 +42,5 @@ _14:00 to 15:15 Mondays and Wednesdays in 1006 North Hall_
 | April     17th | Stacks and queues; runtimes; big-O notation
 | April     19th | Exceptions; encapsulation; sorted sequences; binary search
 | April     24th | More sorted sequences; binary search trees; self-balancing trees
-| April     26th | Self-balancing trees; sets; the "big five" functions
+| April     26th | Self-balancing trees; tree traversal; sets; the "big five" functions
+| May        1st | More big five; more tree traversal; iterators
