@@ -21,12 +21,13 @@ or just have questions, head over to [Piazza](https://piazza.com/ucsb/spring2023
 
 _Assignments are due before midnight Pacific Time_
 
-| Name               | Due
-|--------------------|------------
-| [Welcome](welcome) | April 11th
-| [FibVec](fibvec)   | April 18th
-| [TicTac](tictac)   | April 25th
-| [Setree](setree)   | May    2nd
+| Name                 | Due
+|----------------------|------------
+| [Welcome](welcome)   | April 11th
+| [FibVec](fibvec)     | April 18th
+| [TicTac](tictac)     | April 25th
+| [Setree](setree)     | May    2nd
+| [GenePool](genepool) | May    9th
 
 
 ## Lectures
@@ -43,4 +44,5 @@ _14:00 to 15:15 Mondays and Wednesdays in 1006 North Hall_
 | April     19th | Exceptions; encapsulation; sorted sequences; binary search
 | April     24th | More sorted sequences; binary search trees; self-balancing trees
 | April     26th | Self-balancing trees; tree traversal; sets; the "big five" functions
-| May        1st | More big five; more tree traversal; iterators
+| May        1st | Static (class) functions; more big five; assignment operators
+| May        3rd | Maps; more trees; more tree traversal; iterators

@@ -1,0 +1,98 @@
+# This is some data I made up.
+# There was a drawing at one point, but I lost it.
+
+
+# First Generation
+Lionel	male	???	???
+Vera	female	???	???
+Thomas	male	???	???
+
+# Second Generation
+Methuselah	male	Vera	Lionel
+Leah	female	Vera	Lionel
+Caleb	male	Vera	Lionel
+Rachel	female	Vera	Lionel
+
+Marguerite	female	???	???
+Jordan	male	???	???
+Josephine	female	???	???
+Robert	male	???	???
+
+Marco	male	Leah	Thomas
+Anabel	female	Leah	Thomas
+Willem	male	???	Thomas
+Wendy	female	???	Thomas
+Wanda	female	???	Thomas
+
+Timothy	male	???	???
+
+# Third Generation
+Joy	female	???	???
+
+Adam	male	Marguerite	Methuselah
+Ada	female	Marguerite	Methuselah
+
+Evan	male	Josephine	Jordan
+Eva	female	Josephine	Jordan
+Evelyn	female	Josephine	Jordan
+
+Petra	female	Rachel	Robert
+Peter	male	Rachel	Robert
+Paul	male	Rachel	Robert
+
+Coral	female	Wanda	Timothy
+Cindy	female	Wanda	Timothy
+
+Sasha	male	???	???
+
+# Fourth Generation
+Jenny	female	Joy	Adam
+
+Alice	female	Eva	Adam
+Alison	female	Eva	Adam
+Alistair	male	Eva	Adam
+Alan	male	Eva	Adam
+
+Bob	male	Eva	Peter
+Barbara	female	Eva	Peter
+Bonnie	female	Eva	Peter
+
+Carl	male	Cindy	Peter
+Cari	female	Cindy	Peter
+Carver	male	Cindy	Peter
+Cat	female	Cindy	Peter
+
+Don	male	Cindy	Sasha
+
+Emily	female	???	???
+Lisa	female	???	???
+Lars	male	???	???
+Judy	female	???	???
+Cyril	male	???	???
+Thorsten	male	???	???
+Andy	male	???	???
+
+#Fifth Generation
+Ginny	female	Alison	Carl
+George	male	Alison	Carl
+Garrett	male	Alison	Carl
+
+Stuart	male	Emily	Alistair
+Richard	male	Emily	Alistair
+William	male	Emily	Alistair
+
+Valerie	female	Lisa	Bob
+
+Matti	male	Barbara	Lars
+Sana	female	Barbara	Lars
+Hans	male	Judy	Lars
+
+Morgana	female	Cari	Cyril
+Maria	female	Cari	Thorsten
+
+Renard	male	Cat	Andy
+
+Sue	female	???	???
+
+#Sixth Generation
+Cassie	female	Sue	Renard

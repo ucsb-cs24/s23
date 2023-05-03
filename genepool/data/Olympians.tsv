@@ -1,0 +1,298 @@
+# Family Tree of the Greek Gods
+# Mainly based on this Wikipedia article:
+# https://en.wikipedia.org/wiki/Family_tree_of_the_Greek_gods
+
+# Random Mortals
+Alcmene	female	???	???
+Cadmus	male	???	???
+Ariadne	female	???	???
+Tithonus	male	???	???
+Peleus	male	???	???
+Cephalus	male	???	???
+Jason	male	???	???
+Anchises	male	???	???
+Iasion	male	???	???
+Odysseus	male	???	???
+
+
+# The First Gods
+Chaos	female	???	???
+Tartarus	male	???	???
+Gaia	female	???	???
+Eros	male	???	???
+
+Erebus	male	Chaos	???
+Nyx	female	Chaos	???
+
+Aether	male	Nyx	Erebus
+Hemera	female	Nyx	Erebus
+
+Uranus	male	Gaia	???
+The Ourea	female	Gaia	???
+Pontus	male	Gaia	???
+
+
+# The Titans
+Oceanus	male	Gaia	Uranus
+Tethys	female	Gaia	Uranus
+Hyperion	male	Gaia	Uranus
+Theia	female	Gaia	Uranus
+Coeus	male	Gaia	Uranus
+Phoebe	female	Gaia	Uranus
+Cronus	male	Gaia	Uranus
+Rhea	female	Gaia	Uranus
+Themis	female	Gaia	Uranus
+Mnemosyne	female	Gaia	Uranus
+Crius	male	Gaia	Uranus
+Iapetus	male	Gaia	Uranus
+
+## The Cyclopes
+Brontes	male	Gaia	Uranus
+Steropes	male	Gaia	Uranus
+Arges	male	Gaia	Uranus
+
+## The Hecatoncheires
+Cottus	male	Gaia	Uranus
+Briareos	male	Gaia	Uranus
+Gyges	male	Gaia	Uranus
+
+
+## The Erinyes
+Alecto	female	Gaia	Uranus
+Megaera	female	Gaia	Uranus
+Tisiphone	female	Gaia	Uranus
+
+The Gigantes	male	Gaia	Uranus
+The Meliae	female	Gaia	Uranus
+Aphrodite	female	???	Uranus
+
+
+# The First Olympians
+Demeter	female	Rhea	Cronus
+Hestia	female	Rhea	Cronus
+Hera	female	Rhea	Cronus
+Hades	male	Rhea	Cronus
+Poseidon	male	Rhea	Cronus
+Zeus	male	Rhea	Cronus
+
+
+# Children of Nyx
+Moros	male	Nyx	???
+Thanatos	male	Nyx	???
+The Oneiroi	male	Nyx	???
+Oizys	female	Nyx	???
+Nemesis	female	Nyx	???
+Philotes	female	Nyx	???
+Ker	male	Nyx	???
+Hypnos	male	Nyx	???
+Momus	male	Nyx	???
+The Keres	female	Nyx	???
+Apate	female	Nyx	???
+Geras	male	Nyx	???
+Eris	female	Nyx	???
+
+## The Moirai
+Clotho	female	Nyx	???
+Lachesis	female	Nyx	???
+Atropos	female	Nyx	???
+
+## The Hesperides
+Aegle	female	Nyx	???
+Erythea	female	Nyx	???
+Hesperia	female	Nyx	???
+Arethusa	female	Nyx	???
+
+
+# Children of Eris
+Ponos	male	Eris	???
+Limos	female	Eris	???
+The Hysmenai	male	Eris	???
+The Phonoi	male	Eris	???
+The Neikea	female	Eris	???
+The Logoi	male	Eris	???
+Dysnomia	female	Eris	???
+Korkos	male	Eris	???
+Lethe	female	Eris	???
+The Algea	male	Eris	???
+The Machai	male	Eris	???
+The Androktasiai	female	Eris	???
+The Pseudea	male	Eris	???
+The Amphillogiai	female	Eris	???
+Ate	female	Eris	???
+
+
+# Children of Tethys and Oceanus
+The Potamoi	male	Tethys	Oceanus
+The Oceanids	female	Tethys	Oceanus
+
+## Important Oceanids
+Metis	female	Tethys	Oceanus
+Doris	female	Tethys	Oceanus
+Electra	female	Tethys	Oceanus
+Callirhoe	female	Tethys	Oceanus
+Perse	female	Tethys	Oceanus
+Idyia	female	Tethys	Oceanus
+Calypso	female	Tethys	Oceanus
+Styx	female	Tethys	Oceanus
+Clymene	female	Tethys	Oceanus
+Eurynome	female	Tethys	Oceanus
+Pleione	female	Tethys	Oceanus
+
+
+# Children of Gaia and Pontus
+Nereus	male	Gaia	Pontus
+Thaumas	male	Gaia	Pontus
+Phorcys	male	Gaia	Pontus
+Ceto	female	Gaia	Pontus
+Eurybia	female	Gaia	Pontus
+
+Iris	female	Electra	Thaumas
+
+## The Harpies
+Aello	female	Electra	Thaumas
+Ocypete	female	Electra	Thaumas
+
+## The Graiai
+Deino	female	Ceto	Phorcys
+Enyo	female	Ceto	Phorcys
+Pemphredo	female	Ceto	Phorcys
+
+## The Gorgons
+Sthenno	female	Ceto	Phorcys
+Euryale	female	Ceto	Phorcys
+Medusa	female	Ceto	Phorcys
+
+Echidna	female	Ceto	Phorcys
+Ladon	male	Ceto	Phorcys
+
+Pegasus	male	Medusa	Poseidon
+Chrysoar	male	Medusa	Poseidon
+
+Geryon	male	Callirhoe	Chrysoar
+
+
+# Assorted Monsters
+Typhon	male	Gaia	Tartarus
+
+Orthus	male	Echidna	Typhon
+Cerberus	male	Echidna	Typhon
+Hydra	female	Echidna	Typhon
+Chimera	female	Echidna	Typhon
+
+The Sphinx	female	Chimera	Orthus
+The Nimean Lion	male	Chimera	Orthus
+
+
+# Children of the Titans
+Helios	male	Theia	Hyperion
+Eos	female	Theia	Hyperion
+Selene	female	Theia	Hyperion
+
+Astraeus	male	Eurybia	Crius
+Pallas	male	Eurybia	Crius
+Perses	male	Eurybia	Crius
+
+## The Anemoi
+Zephyrus	male	Eos	Astraeus
+Boreas	male	Eos	Astraeus
+Notos	male	Eos	Astraeus
+
+Eosphoros	male	Eos	Astraeus
+The Stars	male	Eos	Astraeus
+
+Zelus	male	Styx	Pallas
+Nike	female	Styx	Pallas
+Kratos	male	Styx	Pallas
+Bia	female	Styx	Pallas
+
+Leto	female	Phoebe	Coeus
+Asteria	female	Phoebe	Coeus
+
+Hecate	female	Asteria	Perses
+
+Atlas	male	Clymene	Iapetus
+Menoetius	male	Clymene	Iapetus
+Prometheus	male	Clymene	Iapetus
+Epimetheus	male	Clymene	Iapetus
+
+Maia	female	Pleione	Atlas
+
+
+# Divine Children of Zeus
+Athena	female	Metis	Zeus
+
+## The Horae
+Eunomia	female	Themis	Zeus
+Dike	female	Themis	Zeus
+Eirene	female	Themis	Zeus
+
+## The Charities
+Aglaea	female	Eurynome	Zeus
+Euphrosyne	female	Eurynome	Zeus
+Thalia	female	Eurynome	Zeus
+
+Persephone	female	Demeter	Zeus
+
+## The Muses
+Calliope	female	Mnemosyne	Zeus
+Clio	female	Mnemosyne	Zeus
+Erato	female	Mnemosyne	Zeus
+Euterpe	female	Mnemosyne	Zeus
+Melpomene	female	Mnemosyne	Zeus
+Polyhymnia	female	Mnemosyne	Zeus
+Terpsichore	female	Mnemosyne	Zeus
+Thaleia	female	Mnemosyne	Zeus
+Urania	female	Mnemosyne	Zeus
+
+Apollo	male	Leto	Zeus
+Artemis	female	Leto	Zeus
+
+Hebe	female	Hera	Zeus
+Ares	male	Hera	Zeus
+Eileithyia	female	Hera	Zeus
+
+Hephaestus	male	Hera	???
+
+
+# Other Descendants of Divine Fathers
+Amphitrite	female	Doris	Nereus
+Thetis	female	Doris	Nereus
+Triton	male	Amphitrite	Poseidon
+
+Phobos	male	Aphrodite	Ares
+Deimos	male	Aphrodite	Ares
+Harmonia	female	Aphrodite	Ares
+
+Semele	female	Harmonia	Cadmus
+Ino	female	Harmonia	Cadmus
+Agave	female	Harmonia	Cadmus
+Autonoe	female	Harmonia	Cadmus
+Polydorus	male	Harmonia	Cadmus
+
+Hermes	male	Maia	Zeus
+Heracles	male	Alcmene	Zeus
+Dionysus	male	Semele	Zeus
+Thoas	male	Ariadne	Dionysus
+
+Circe	female	Perse	Helios
+Aeetes	male	Perse	Helios
+Medea	female	Idyia	Aeetes
+
+
+# Other Descendants of Divine Mothers
+Plutus	male	Demeter	Iasion
+
+Memnon	male	Eos	Tithonus
+Emathion	male	Eos	Tithonus
+Phaethon	male	Eos	Cephalus
+
+Medeius	male	Medea	Jason
+
+Achilles	male	Thetis	Peleus
+
+Aeneas	male	Aphrodite	Anchises
+
+Agrios	male	Circe	Odysseus
+Latinus	male	Circe	Odysseus
+Nausithous	male	Calypso	Odysseus
+Nausinous	male	Calypso	Odysseus

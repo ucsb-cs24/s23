@@ -1,0 +1,36 @@
+# Based on the Mahabharata Partial Family Tree from:
+# https://commons.wikimedia.org/wiki/File:Mahabharata_Partial_Family_Tree.png
+
+Parashara	male	???	???
+Satyavati	female	???	???
+Shantanu	male	???	???
+Ganga	female	???	???
+
+Kashya	male	???	???
+Sughada	female	???	???
+
+Vyasa	male	Satyavati	Parashara
+Vichitravirya	male	Satyavati	Shantanu
+Chitrangada	male	Satyavati	Shantanu
+Bheeshma	male	Ganga	Shantanu
+
+Amba	female	???	Kashya
+Ambika	female	???	Kashya
+Ambalika	female	???	Kashya
+
+Gandhari	female	???	???
+Dhritarashtra	male	Ambika	Vyasa
+Kunti	female	???	???
+Pandu	male	Ambalika	Vyasa
+Madri	female	???	???
+
+Duryodhana	male	Gandhari	Dhritarashtra
+Dushasana	male	Gandhari	Dhritarashtra
+Duhsala	female	Gandhari	Dhritarashtra
+Yuyutsu	male	Sughada	Dhritarashtra
+
+Yudhishtra	male	Kunti	Pandu
+Bheema	male	Kunti	Pandu
+Arjuna	male	Kunti	Pandu
+Nakula	male	Madri	Pandu
+Sahadeva	male	Madri	Pandu
