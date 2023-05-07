@@ -194,6 +194,9 @@ only Eve.
 
 - Look at all the starter code.  See what's written for you, and how the parts
   you need to write fit into the existing code.
+- Write your `GenePool` functions first, and just enough of the `Person` class
+  to get it to compile.  Then you can use the  special query `everyone` to see
+  everyone in your database and make sure you read the data file correctly.
 - The `std::getline()` function takes an optional third `delimiter` argument -
   you can use this to parse tab-delimited strings from a `std::istringstream`.
 - You can use `mymap[key] = value` to insert things into a `std::map` (there's
