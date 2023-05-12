@@ -48,4 +48,5 @@ _14:00 to 15:15 Mondays and Wednesdays in 1006 North Hall_
 | May        1st | Static (class) functions; more big five; assignment operators
 | May        3rd | Maps; more trees; more tree traversal; iterators
 | May        8th | Overview of other search trees; hash tables; chaining vs probing
-| May       10th | More hash tables; heaps (priority queues)
+| May       10th | More hash tables; linear and qudratic probing; double hashing
+| May       15th | Heaps (priority queues); binary heaps and percolation

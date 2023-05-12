@@ -100,3 +100,8 @@ Only submissions made before the due date are eligible for extra credit.
 - The `++` operator returns a reference to the object it operated on.
 - When running performance tests, the grader will compile your code with the
   `-O3` option to enable compile-time optimization.
+- When using the interactive interface in `main.cpp`, note that for commands
+  that take a count or value argument, this should come before the key.
+- You can start by only writing your counter and datastore classes.  As long
+  as you have  a `find()` function on your datastore,  you should be able to
+  pass all the functional tests.  Then add an index to make it fast.
