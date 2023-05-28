@@ -56,3 +56,4 @@ _14:00 to 15:15 Mondays and Wednesdays in 1006 North Hall_
 | May       22nd | Binomial heaps; disjoint sets; intro to graphs
 | May       24th | More graphs; depth- and breadth-first search; Dijkstra's algorithm
 | May       29th | Memorial Day - no lecture!
+| May       31st | Minimum spanning trees; Prim's and Kruskal's algorithms
