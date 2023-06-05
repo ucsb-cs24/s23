@@ -31,7 +31,7 @@ _Assignments are due before midnight Pacific Time_
 | [Counter](counter)   | May   17th
 | [Typo](typo)         | May   24th
 | [WordHop](wordhop)   | May   31st
-| [Lineup](lineup)     | June   8th
+| [Lineup](lineup)     | June   9th
 
 
 ## Lectures
